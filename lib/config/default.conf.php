@@ -1,6 +1,6 @@
 <?php
 /**
- * $Project: Pastebin $
+ * $Project: doxbin$
  * $Id: default.conf.php,v 1.3 2006/04/27 16:19:24 paul Exp $
  * 
  * Pastebin Collaboration Tool
